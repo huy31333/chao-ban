@@ -242,7 +242,7 @@
   /**      pát 2 */
   
 var to = 'from:ngừi anhk emk';
-var gift_url = 'https://www.facebook.com/';
+var gift_url = 'https://huy31333.github.io/botdaytoyou/';
 var gift_image_url = 'nhomhuy.jpg';
 
 
